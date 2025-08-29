@@ -21,3 +21,8 @@ The goal is to identify top-selling products and optimize profitability and regi
 - Espresso has the highest units sold, indicating strong customer preference.
 - Revenue is evenly distributed across locations, with Chicago slightly leading.
 - Americano and Cappuccino underperform, suggesting potential for improvement or promotion.
+
+## Final Conclusion:
+he 2024 sales data shows strong performance from Latte and Espresso across all locations.
+Chicago leads slightly in revenue, with overall sales distributed evenly by region.
+Focusing on improving Americano and Cappuccino sales could boost overall profitability.
