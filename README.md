@@ -15,3 +15,9 @@ The goal is to identify top-selling products and optimize profitability and regi
 
 ## Dashboard
 <img width="638" height="394" alt="Screenshot 2025-08-29 193147" src="https://github.com/user-attachments/assets/ff851380-b8c8-4ab1-887c-65be752ad01b" />
+
+## Project Insight
+- Latte is the best-performing product, generating the highest revenue and profit.
+- Espresso has the highest units sold, indicating strong customer preference.
+- Revenue is evenly distributed across locations, with Chicago slightly leading.
+- Americano and Cappuccino underperform, suggesting potential for improvement or promotion.
